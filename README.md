@@ -5,3 +5,13 @@ Project Structure:
 Desined using selenium framework , on top of cucumber is used
 
 
+Running the Scenarios:
+
+Prerequisite: Java and Maven should be installed.
+
+Step1 : Navigate to project location in the command prompt.
+Step2 : Type command as : mvn clean install -U -P testrun
+
+Reports will be created in the extentReport folder in the current location with today's date.html and screenshot in the same location.
+
+
