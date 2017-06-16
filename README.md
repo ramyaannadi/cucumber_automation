@@ -10,7 +10,7 @@ Running the Scenarios:
 Prerequisite: Java and Maven should be installed.
 
 Step1 : Navigate to project location in the command prompt.
-Step2 : Case Ids has be updated in the feature file in the following location
+Step2 : Case Id's has to be updated in the feature file in the following location
         src/main/java/com/bpm.feature/login.feature
 Step3 : Type command as : mvn clean install -U -P testrun
 
