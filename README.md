@@ -1,2 +1,7 @@
 # cucumber_automation
-Test Scripts for all the application
+Project description:  Automation Test Scripts for BPM Portal.
+
+Project Structure:
+Desined using selenium framework , on top of cucumber is used
+
+
